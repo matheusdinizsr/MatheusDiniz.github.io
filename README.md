@@ -1,4 +1,4 @@
-﻿# Matheus Diniz
+## Matheus Diniz
 
 💻I'm a backend programmer with strong C#/.Net skills, and fluent in english. After almost 8 years of experience in the judicial area, I realized that by working as a software developer I would find professional fulfillment, as problem-solving, information research, and the chance to work abroad have always fascinated me.
 
@@ -25,7 +25,3 @@ Also, I can speak english fluently and a have a dual portuguese-brazilian citize
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=matheusdinizsr&theme=transparent&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)
 ![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=matheusdinizsr&layout=compact&bg_color=000&border_color=30A3DC&title_color=E94D5F&text_color=FFF)
-
-
-
----
