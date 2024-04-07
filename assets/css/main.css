@@ -1804,10 +1804,14 @@ section, article {
 
     .image.fit {
         display: block;
-        width: 290px;
-        height: 300px;        
         object-fit: fill;
-        
+   
+    }
+    .image.oversized {
+        display: block;
+        margin-left: auto;
+        margin-right: auto;
+        width: 80%;
     }
 
     .image.featured {
@@ -1818,7 +1822,14 @@ section, article {
 
     .image.left {
         float: left;
-        margin: 0 2em 2em 0;
+        margin: 2em 2em 2em 0;
+    }
+    
+    .image.right {
+        float: right;
+        margin: 0 0 0 2em;
+        width: 25%;
+        
     }
 
     .image.centered {
@@ -2034,6 +2045,9 @@ button,
         .item header h3 {
             font-size: 0.8em;
         }
+    .item.over {
+        align-items: center;
+    }
 
 /* Icons */
 
